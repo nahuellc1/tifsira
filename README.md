@@ -2,12 +2,6 @@
 
 > Sistema web de gestión de inventario desarrollado para **Italfiat Repuestos** - Formosa, Argentina
 
-[![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat&logo=laravel)](https://laravel.com)
-[![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat&logo=php)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql)](https://mysql.com)
-
----
-
 ## Descripción del Proyecto
 
 SIRA es un sistema web diseñado para modernizar la gestión de inventario de repuestos automotores en Italfiat Repuestos, una empresa familiar con más de 15 años de trayectoria en Formosa.
@@ -154,7 +148,7 @@ Accede a la aplicación en: **http://localhost:8000**
 
 ---
 
-## Funcionalidades Principales
+## 📱 Funcionalidades Principales
 
 ### Para Administradores:
 - ➕ Crear, editar y eliminar productos
@@ -171,7 +165,7 @@ Accede a la aplicación en: **http://localhost:8000**
 
 ---
 
-## Metodología de Desarrollo
+## 🎯 Metodología de Desarrollo
 
 ### Framework Ágil: **Scrum**
 
@@ -185,7 +179,8 @@ Accede a la aplicación en: **http://localhost:8000**
 
 ---
 
-## Seguridad
+
+## 🔒 Seguridad
 
 - 🔐 Contraseñas encriptadas con bcrypt
 - 🛡️ Middleware de autorización por roles
@@ -195,7 +190,9 @@ Accede a la aplicación en: **http://localhost:8000**
 
 ---
 
-## Base de Datos
+
+
+## 📊 Base de Datos
 
 ### Modelo Relacional:
 
@@ -216,7 +213,8 @@ movimientos (id, producto_id, user_id, tipo, cantidad, fecha)
 
 ---
 
-## Testing
+
+## 🧪 Testing
 
 ### Ejecutar pruebas:
 
@@ -228,7 +226,8 @@ _(Nota: Las pruebas se implementarán en futuras versiones)_
 
 ---
 
-## Roadmap - Funcionalidades Futuras
+
+## 📈 Roadmap - Funcionalidades Futuras
 
 - [ ] Módulo de ventas y facturación
 - [ ] Gestión de clientes y cuentas corrientes
@@ -240,7 +239,8 @@ _(Nota: Las pruebas se implementarán en futuras versiones)_
 
 ---
 
-## Autores
+## 👨‍💻 Autores
+
 
 | Alumno | Legajo | Responsabilidad |
 |--------|--------|-----------------|
@@ -253,22 +253,22 @@ _(Nota: Las pruebas se implementarán en futuras versiones)_
 
 ---
 
-## Licencia
+## 📄 Licencia
 
 Este proyecto fue desarrollado con fines académicos para la empresa **Italfiat Repuestos** como Trabajo Final Integrador (TFI).
 
 ---
 
-## Agradecimientos
+## 🙏 Agradecimientos
 
 - **Wenceslao Coronel** - Tutor en Italfiat Repuestos
 - **UTN Formosa** - Tecnicatura Universitaria en Programación
+- Comunidad de Laravel Argentina
 
 ---
 
-## Contacto
+## 📞 Contacto
+
 
 - 📧 Email: nahuelcoronel21@gmail.com - mikaelasolalvarez@gmail.com
 - 🏢 Empresa: Italfiat Repuestos - Formosa, Argentina
-
----
